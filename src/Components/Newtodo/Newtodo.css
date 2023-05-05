@@ -4,7 +4,7 @@
   font-weight: 700;
   line-height: 42px;
   text-align: center;
-  /* padding: 27px 176px 36px 175px; */
+  
 }
 
 .newtodo {
@@ -41,4 +41,5 @@
   font-weight: 500;
   font-size: 14px;
   color: #8fa8c1;
+  border: none;
 }
